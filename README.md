@@ -1,0 +1,2 @@
+# SIIM-ACR-Pneumothorax-Segmentation-kaggle
+This was my first kaggle competition where the task was to Identify Pneumothorax disease in chest x-rays which is a image segmentation problem,i tried so many different architectures for this competition but in this repository i will put only 2 architecture that i used for stage 2 final submission, competition problem details here : https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation
